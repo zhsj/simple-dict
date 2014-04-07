@@ -8,8 +8,8 @@
             "desktop": "simple-dict.desktop"
         }
     },
-    "maintainer": "SJ Zhu",
-    "name": "me.zhsj.ubuntu.dict",
+    "maintainer": "SJ Zhu < zsj950618@gmail.com>",
+    "name": "me.zhsj.ubuntu.simple-dict",
     "title": "Simple Dict",
-    "version": "0.1"
+    "version": "0.1.1"
 }
