@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=simple-dict
+Exec=/usr/bin/qmlscene $@ /usr/share/simple-dict/simple-dict.qml
+Icon=logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
