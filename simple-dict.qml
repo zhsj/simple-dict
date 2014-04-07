@@ -7,7 +7,7 @@ MainView {
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"
     // Note! applicationName needs to match the "name" field of the click manifest
-    applicationName: "me.zhsj.ubuntu.dict"
+    applicationName: "me.zhsj.ubuntu.simple-dict"
 
     automaticOrientation: true
     width: units.gu(100)
